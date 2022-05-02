@@ -22,7 +22,7 @@ public class Graph_Plotter {
         BufferedReader br;
         try
         {
-            fr = new FileReader("SaltedPoints.csv");
+            fr = new FileReader("Final_Graph.csv");
         }
         catch (FileNotFoundException fe)
         {
