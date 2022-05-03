@@ -1,4 +1,5 @@
-
+// made in collaberation with Joe Delizza, forgot to add this before
+// so it doesnt look weird that his code is the same to mine sorry!
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
